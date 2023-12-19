@@ -1,0 +1,7 @@
+﻿@test_nswag_HostAddress = http://localhost:5123
+
+GET {{test_nswag_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
